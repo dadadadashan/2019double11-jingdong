@@ -12,6 +12,6 @@
 ------------------
 
 在原作者的基础上优化了一些小bug。执行完签到任务后会再次检测浏览任务有没有完成。
-1.[下载店铺签到](https://blog.csdn.net/weixin_36733255/article/details/102800677)安装，[下载浏览任务](https://blog.csdn.net/weixin_36733255/article/details/102800677)的工具并安装。
+1.[下载店铺签到](https://share.weiyun.com/5sBphpj)安装，[下载浏览任务](https://share.weiyun.com/5sBphpj)的工具并安装。
 2.打开工具，此时如果手机没有开启相应的无障碍服务，程序会自动跳转至开启页面，打开“AutoJs”服务，再手动返回至辅助工具。
 3.如果第2步返回到程序后没有成功启动，再重新打开double11试试。
